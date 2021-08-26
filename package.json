@@ -1,0 +1,29 @@
+{
+  "name": "701i-random-messages",
+  "version": "1.0.1",
+  "description": "random messages in console",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "anx <anxelilk@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/701i/npm-practice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/701i/npm-practice/issues"
+  },
+  "homepage": "https://github.com/701i/npm-practice#readme"
+}
